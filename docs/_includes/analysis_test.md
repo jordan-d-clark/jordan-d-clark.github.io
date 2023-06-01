@@ -193,31 +193,31 @@ for column in lst_features_num:
 
 
     
-![png](analysis_test_files/analysis_test_4_0.png)
+![png](/assets/analysis_test_files/analysis_test_4_0.png)
     
 
 
 
     
-![png](analysis_test_files/analysis_test_4_1.png)
+![png](/assets/analysis_test_files/analysis_test_4_1.png)
     
 
 
 
     
-![png](analysis_test_files/analysis_test_4_2.png)
+![png](/assets/analysis_test_files/analysis_test_4_2.png)
     
 
 
 
     
-![png](analysis_test_files/analysis_test_4_3.png)
+![png](/assets/analysis_test_files/analysis_test_4_3.png)
     
 
 
 
     
-![png](analysis_test_files/analysis_test_4_4.png)
+![png](/assets/analysis_test_files/analysis_test_4_4.png)
     
 
 
@@ -614,7 +614,7 @@ plt.show()
 
 
     
-![png](analysis_test_files/analysis_test_11_1.png)
+![png](/assets/analysis_test_files/analysis_test_11_1.png)
     
 
 
